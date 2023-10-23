@@ -1,0 +1,38 @@
+[
+  {
+    "title": "On Duty",
+    "data": [14, 6],
+    "head": false,
+    "type": "chart"
+  },
+  {
+    "title": "Attendance",
+    "data": [12, 2],
+    "head": true,
+    "type": "chart"
+  },
+  {
+    "title": "Feed / Activity",
+    "data": 0,
+    "head": true,
+    "type": "non-chart"
+  },
+  {
+    "title": "Patroli",
+    "data": 2,
+    "head": true,
+    "type": "non-chart"
+  },
+  {
+    "title": "Non Schedule",
+    "data": 0,
+    "head": true,
+    "type": "non-chart"
+  },
+  {
+    "title": "Non Geofence",
+    "data": 0,
+    "head": true,
+    "type": "non-chart"
+  }
+]
